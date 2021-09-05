@@ -1,0 +1,3 @@
+(function Bad_code () {
+
+})()
