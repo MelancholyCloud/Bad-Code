@@ -17,7 +17,7 @@
       (async function __Boop_function(){
         System.out.println(new String('Boop'))
       })()
-		}else if(true == foobar){
+    }else if(true == foobar){
       (async function __Boop_function(){
         System.out.println(new String('Boop'))
       })()
@@ -25,6 +25,6 @@
       (async function __Poob_function(){
         System.out.println(new String('Poob'))
       })()
-		}
+    }
   }
 })()
